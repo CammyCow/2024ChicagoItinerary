@@ -1,0 +1,21 @@
+.initial-screen {
+    text-align: center;
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .initial-screen h1 {
+    font-size: 4rem;
+    transition: transform 0.5s ease;
+  }
+  
+  .names {
+    transition: transform 0.5s ease;
+  }
+  
+  .names p {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  

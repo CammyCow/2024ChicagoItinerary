@@ -1,0 +1,12 @@
+.timeline {
+    margin-top: 100vh;
+    padding: 20px;
+  }
+  
+  .event {
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  

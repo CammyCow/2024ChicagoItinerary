@@ -1,0 +1,52 @@
+[
+    {
+      "date": "2024-08-25",
+      "title": "Event 1",
+      "place": "Chicago, IL",
+      "extraInfo": "Details about the first event.",
+      "attendees": ["Alice", "Bob", "Charlie"]
+    },
+    {
+      "date": "2024-08-26",
+      "title": "Event 2",
+      "place": "Chicago, IL",
+      "extraInfo": "Details about the second event.",
+      "attendees": ["Alice", "Charlie"]
+    },
+    {
+      "date": "2024-08-27",
+      "title": "Event 3",
+      "place": "Chicago, IL",
+      "extraInfo": "Details about the third event.",
+      "attendees": ["Bob", "Charlie"]
+    },
+    {
+        "date": "2024-08-25",
+        "title": "Event 4",
+        "place": "Chicago, IL",
+        "extraInfo": "Details about the first event.",
+        "attendees": ["Alice", "Bob", "Charlie"]
+      },
+      {
+        "date": "2024-08-26",
+        "title": "Event 5",
+        "place": "Chicago, IL",
+        "extraInfo": "Details about the second event.",
+        "attendees": ["Alice", "Charlie"]
+      },
+      {
+        "date": "2024-08-27",
+        "title": "Event 6",
+        "place": "Chicago, IL",
+        "extraInfo": "Details about the third event.",
+        "attendees": ["Bob", "Charlie"]
+      },
+      {
+        "date": "2024-08-27",
+        "title": "Event 7",
+        "place": "Chicago, IL",
+        "extraInfo": "Details about the third event.",
+        "attendees": ["Bob", "Charlie"]
+      }
+  ]
+  
